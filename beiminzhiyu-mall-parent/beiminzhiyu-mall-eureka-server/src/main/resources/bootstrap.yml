@@ -1,0 +1,9 @@
+custom:
+  port: 8082
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8081/
+      label: master
+      profile: dev
+      name: eureka-server

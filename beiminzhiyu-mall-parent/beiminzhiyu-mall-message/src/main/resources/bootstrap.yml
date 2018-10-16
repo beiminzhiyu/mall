@@ -1,0 +1,40 @@
+custom:
+  port: 8084
+  server: 192.168.31.204
+  eureka-server: http://${custom.server}:8082/eureka
+spring:
+  cloud:
+    config:
+      uri: http://${custom.server}:8081/
+      label: master
+      profile: dev
+      name: message-service
+  redis:
+    host: 192.168.31.204
+    port: 6379
+    pool:
+      max-idle: 100
+      min-idle: 1
+      max-active: 1000
+      max-wait: -1
+    password: 123456
+  activemq:
+    broker-url: tcp://192.168.31.204:61616
+    in-memory: true
+    pool:
+      enabled: false
+  mail:
+    host: smtp.126.com
+    username: li_kun2016@126.com
+    password: likun2016
+    enable:  true
+    smtp:
+      auth: true
+    starttls:
+      enable: true
+      required: true
+########################################
+
+msg:
+  subject: 会员注册成功
+  text:  恭喜您的账户{}注册成功

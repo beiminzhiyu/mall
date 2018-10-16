@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="beiminzhiyu-mall-api-member" />
+        <module name="beiminzhiyu-mall-common" />
+        <module name="beiminzhiyu-mall-config-server" />
+        <module name="beiminzhiyu-mall-eureka-server" />
+        <module name="beiminzhiyu-mall-member" />
+        <module name="beiminzhiyu-mall-message" />
+        <module name="beiminzhiyu-mall-weixin" />
+        <module name="beiminzhiyumallpcweb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

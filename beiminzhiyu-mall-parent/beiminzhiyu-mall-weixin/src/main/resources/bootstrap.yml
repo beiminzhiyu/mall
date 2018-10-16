@@ -1,0 +1,37 @@
+custom:
+  port: 8086
+  server: 192.168.31.204
+  eureka-server: http://${custom.server}:8082/eureka
+spring:
+  cloud:
+    config:
+      uri: http://${custom.server}:8081/
+      label: master
+      profile: dev
+      name: message-service
+  redis:
+    host: 192.168.31.204
+    port: 6379
+    pool:
+      max-idle: 100
+      min-idle: 1
+      max-active: 1000
+      max-wait: -1
+    password: 123456
+  activemq:
+    broker-url: tcp://192.168.31.204:61616
+    in-memory: true
+    pool:
+      enabled: false
+logging:
+  level:
+    org.springframework.web: INFO
+    com.github.binarywang.demo.wx.mp: DEBUG
+    me.chanjar.weixin: DEBUG
+wx:
+  mp:
+    configs:
+    - appId: wxb8c082f569d9c4cc
+      secret: b029a205a17b0818727fa12814216617
+      token: beiminzhiyu
+      aesKey:

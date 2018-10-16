@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d18b82c-7d0e-4095-8ae2-dd5e2060eaed" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-common/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-api/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-api/beiminzhiyu-mall-api-member/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-member/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-api-member/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-message/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/target/" />
+    <ignored path="$PROJECT_DIR$/beiminzhiyu-mall-weixin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-864506742">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="3" />
+          <entry key="ftl" value="28" />
+          <entry key="java" value="7050" />
+          <entry key="xml" value="301" />
+          <entry key="yml" value="1000" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="FTL" value="28" />
+          <entry key="JAVA" value="7050" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="XML" value="301" />
+          <entry key="YAML" value="1000" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="ftl" value="7" />
+          <entry key="html" value="1" />
+          <entry key="java" value="174" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="2" />
+          <entry key="log" value="1" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="template" value="1" />
+          <entry key="xml" value="106" />
+          <entry key="yml" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="FTL" value="7" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="174" />
+          <entry key="JSP" value="2" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="107" />
+          <entry key="YAML" value="42" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test</find>
+      <find>base</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-api-member/src/main/java/cn/beiminzhiyu/entry/UserEntity.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-api-member/src/main/java/cn/beiminzhiyu/entiry/UserEntity.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/MemberApp.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-message/src/main/java/cn/beiminzhiyu/adapter/MessageApp.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-message/src/main/java/cn/beiminzhiyu/MessageApp.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-message/src/main/java/cn/beiminzhiyu/adapter/MessageAdapter.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-message/src/main/java/cn/beiminzhiyu/mq/ConsumerDistribute.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/mq/RegisterMailboxProducer.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/utils/MD5Util.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-message/pom.xml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-message/src/main/java/cn/beiminzhiyu/email/service/EmailService.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-message/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/src/test/java/cn/beiminzhiyu/api/service/impl/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/utils/TokenUtil.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/common/CommonRedisCommon.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/controller/WebApp.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/WebApp.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/feign/UserServiceFegin.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/PcWebApp.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-api/pom.xml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/pom.xml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/test/java/cn/beiminzhiyu/controller/RegisterControllerTest.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/utils/CookieUtil.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-api-member/src/main/java/cn/beiminzhiyu/api/service/UserService.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-api-member/src/main/java/cn/beiminzhiyu/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/common/Constants.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/common/CommonBaseService.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/api/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/builder/TextBuilder.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/config/WxMpProperties.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/error/ErrorPageConfiguration.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/LocationHandler.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/LogHandler.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/MsgHandler.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/SubscribeHandler.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/java/cn/beiminzhiyu/controller/WxPortalController.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/java/cn/beiminzhiyu/controller/WeiXinApp.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/config/WxMpConfiguration.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/api/service/impl/ConfigRefeshController.java" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-pc-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/resources/bootstrap.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\repo" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="beiminzhiyu-mall-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beiminzhiyu-mall-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539090529400" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/java/cn/beiminzhiyu" />
+    <property name="last_opened_file_path" value="D:/work/demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\likun\Desktop\beiminzhiyu-mall-parent\beiminzhiyu-mall-api\beiminzhiyu-mall-api-member\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.beiminzhiyu.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\likun\Desktop\beiminzhiyu-mall-parent\beiminzhiyu-mall-weixin\src\main\resources" />
+      <recent name="C:\Users\likun\Desktop\beiminzhiyu-mall-parent\beiminzhiyu-mall-common\src\main\java\cn\beiminzhiyu\weixin" />
+      <recent name="C:\Users\likun\Desktop\beiminzhiyu-mall-parent\beiminzhiyu-mall-pc-web\src\main\resources" />
+      <recent name="C:\Users\likun\Desktop\beiminzhiyu-mall-parent\beiminzhiyu-mall-common\src\main\java\cn\beiminzhiyu\utils" />
+      <recent name="C:\Users\likun\Desktop\beiminzhiyu-mall-parent\beiminzhiyu-mall-pc-web\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MemberApp">
+    <configuration name="UserServiceTest.testUserService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beiminzhiyu-mall-member" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.beiminzhiyu.api.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.beiminzhiyu.api.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="cn.beiminzhiyu.api.service.impl.UserServiceTest" />
+      <option name="METHOD_NAME" value="testUserService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beiminzhiyu-mall-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.beiminzhiyu.app.CommonApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beiminzhiyu-mall-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bieminzhiyu.app.ConfigServerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beiminzhiyu-mall-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.beiminzhiyu.app.EurekaServerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beiminzhiyu-mall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.beiminzhiyu.MemberApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="beiminzhiyu-mall-message" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.beiminzhiyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.beiminzhiyu.MessageApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcWebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="beiminzhiyumallpcweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.beiminzhiyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.beiminzhiyu.PcWebApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeiXinApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="beiminzhiyu-mall-weixin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.beiminzhiyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.beiminzhiyu.WeiXinApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerApp" />
+      <item itemvalue="Spring Boot.CommonApp" />
+      <item itemvalue="Spring Boot.MemberApp" />
+      <item itemvalue="Spring Boot.ConfigServerApp" />
+      <item itemvalue="JUnit.UserServiceTest.testUserService" />
+      <item itemvalue="Spring Boot.MessageApp" />
+      <item itemvalue="Spring Boot.PcWebApp" />
+      <item itemvalue="Spring Boot.WeiXinApp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MessageApp" />
+        <item itemvalue="Spring Boot.WeiXinApp (1)" />
+        <item itemvalue="Spring Boot.PcWebApp" />
+        <item itemvalue="JUnit.UserServiceTest.testUserService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\likun\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d18b82c-7d0e-4095-8ae2-dd5e2060eaed" name="Default Changelist" comment="" />
+      <created>1538812417011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538812417011</updated>
+      <workItem from="1538812422298" duration="6940000" />
+      <workItem from="1538883349714" duration="5000" />
+      <workItem from="1538896304443" duration="1064000" />
+      <workItem from="1538897406212" duration="361000" />
+      <workItem from="1538897800588" duration="26089000" />
+      <workItem from="1538931828957" duration="1362000" />
+      <workItem from="1538960519334" duration="14542000" />
+      <workItem from="1538978382284" duration="7770000" />
+      <workItem from="1538999577015" duration="500000" />
+      <workItem from="1539000222761" duration="13087000" />
+      <workItem from="1539050680096" duration="1396000" />
+      <workItem from="1539080551393" duration="10200000" />
+      <workItem from="1539232506095" duration="494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_testUserService - 2018.10.08 at 09h 37m 13s.xml">
+      <configuration name="UserServiceTest.testUserService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testUserService - 2018.10.08 at 09h 41m 22s.xml">
+      <configuration name="UserServiceTest.testUserService" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83810000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2935657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47308782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/utils/CookieUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/MemberApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/api/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-api-member/src/main/java/cn/beiminzhiyu/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/common/CommonBaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-api-member/src/main/java/cn/beiminzhiyu/api/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/api/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="163" column="35" selection-start-line="163" selection-start-column="24" selection-end-line="163" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="64" column="27" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/java/cn/beiminzhiyu/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-pc-web/src/main/resources/qqconnectconfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/builder/AbstractBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/builder/TextBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/config/WxMpProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/controller/WxMenuController.java" />
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/error/ErrorPageConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/error/ErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/KfSessionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/LocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/LogHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/MenuHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/MsgHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/NullHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/ScanHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/StoreCheckNotifyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/SubscribeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/handler/UnsubscribeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/resources/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/java/cn/beiminzhiyu/controller/WxPortalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/java/cn/beiminzhiyu/WeiXinApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-weixin/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipay.trade.page.pay-JAVA-UTF-8/WebContent/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/alipay.trade.page.pay-JAVA-UTF-8/WebContent/alipay.trade.page.pay.jsp" />
+    <entry file="file://$PROJECT_DIR$/alipay.trade.page.pay-JAVA-UTF-8/src/com/alipay/config/AlipayConfig.java" />
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/config/WxMpConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-763">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-common/src/main/java/cn/beiminzhiyu/weixin/builder/ImageBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-message/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/java/cn/beiminzhiyu/api/service/impl/ConfigRefeshController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-pc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-member/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-actuator/1.5.16.RELEASE/spring-boot-starter-actuator-1.5.16.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beiminzhiyu-mall-member/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
